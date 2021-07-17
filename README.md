@@ -1,2 +1,2 @@
-MITT-Test
+MITT
 =========
